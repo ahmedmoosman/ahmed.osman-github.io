@@ -10,8 +10,6 @@ image-alt: |
 code-annotations: hover
 footnotes-hover: true
 toc-depth: 4
-filters:
-  - include-code-files
 ---
 
 

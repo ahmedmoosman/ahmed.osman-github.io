@@ -70,9 +70,6 @@ format:
           });
           </script>
 
-filters:
-  - lightbox
-lightbox: auto
 
 execute:
   freeze: true
