@@ -1,0 +1,63 @@
+---
+title: "Ahmed M. Osman"
+subtitle: |
+  International Economist, GeoSpatial Data Analyst, and R-lover.
+image: /assets/images/profile.png
+about:
+  id: edu-exp
+  template: solana
+  image-width: 9em
+  image-shape: round
+  links:
+    - text: "{{< iconify fa6-solid envelope >}}"
+      href: "mailto:ahmedmohamed4457@gmail.com"
+      aria-label: "envelope logo for email"
+    - text: "{{< iconify fa6-brands mastodon >}}"
+      href: "https://econtwitter.net/explore"
+      aria-label: "Mastodon account"
+      rel: me
+    - text: "{{< iconify fa6-brands twitter >}}"
+      href: "https://twitter.com/ahmedmo445"
+      aria-label: "Twitter logo linking to Ahmed account"
+    - text: "{{< iconify fa6-brands linkedin >}}"
+      href: "https://www.linkedin.com/in/ahmed-osman-6371aa12a/"
+      aria-label: "LinkedIn logo linking to Ahmed account"
+    - text: "{{< iconify fa6-brands github >}}"
+      href: "https://github.com/ahmedmoosman"
+      aria-label: "GitHub logo linking to Ahmed account"
+---
+
+# 
+::: {#edu-exp}
+:::
+I'm an aspiring international economist with a passion for unraveling the complexities of our interconnected world. My research interests lie at the intersection of globalization, trade dynamics, migration patterns, and development economics. What truly sets my work apart is my special fascination with spatial data management, a powerful tool that allows us to visualize and understand how economic forces shape the geographical landscape. Join me on this exciting journey as we explore the intricacies of global economics and its impact on our ever-evolving world.
+
+::: grid
+::: {.g-col-12 .g-col-md-8 style="text-align: left;"}
+## Education
+
+
+-   ***M.Sc.*** **in Economics of Globalization and European Integration** (*Specialised Globalisation and Emerging Market Economies (GEME)* ), **2023**\
+    *EGEI- Erasmus Mundus Joint Master, Italy, Belgium & Spain*
+
+-   ***B.Sc.*** **in Economics** (*Specialised in International Economics*), **2020**\
+    *University of Hargeisa, Somaliland*
+:::
+
+::: {.g-col-12 .g-col-md-4 style="text-align: left;"}
+## Interests
+
+-   Spatial Analysis
+-   Econometrics
+-   Trade Policies
+-   Regional Integration
+-   Machine learning
+-   R
+-   Quarto
+-   Longitudinal Data
+-   Data Analysis
+-   Data Visualisation
+-   Knowledge Sharing
+-   Learning New Skills
+:::
+:::

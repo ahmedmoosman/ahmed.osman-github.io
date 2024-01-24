@@ -1,0 +1,78 @@
+project:
+  type: website
+  pre-render:
+    - publications.r
+
+website:
+  title: "AMC"
+  description: "A data science blog and portfolio by Ahmed Osman"
+  favicon: /assets/images/logo.png
+  image: /assets/images/profile.png
+  repo-url: https://github.com/ahmedmoosman.github.io
+  open-graph: true
+  twitter-card: true
+  page-navigation: true
+  page-footer:
+    border: true
+    left: |
+      Powered by [Quarto](https://quarto.org).
+    center: |
+      &copy; 2023 Ahmed Osman.
+    right: |
+      License: [CC BY NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).
+  navbar:
+    title: "AMC"
+    search: true
+    logo: assets/images/logo.png
+    right:
+      - text: About
+        href: index.qmd
+      - text: Blog
+        href: blog.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: "{{< iconify fa6-brands mastodon >}}"
+        href: "https://econtwitter.net/explore"
+        rel: me
+      - text: "{{< iconify fa6-brands twitter >}}"
+        href: "https://twitter.com/ahmedmo445"
+      - text: "{{< iconify fa6-brands linkedin >}}"
+        href: 'https://www.linkedin.com/in/ahmed-osman-6371aa12a/'
+      - text: "{{< iconify fa6-brands github >}}"
+        href: "https://github.com/ahmedmoosman"
+
+format:
+  html:
+    theme:
+      - assets/stylesheets/coeos.scss
+    lang: en
+    date-format: 'dddd[, the] Do [of] MMMM, YYYY'
+    highlight-style: github-dark
+    code-copy: true
+    code-link: true
+    anchor-sections: true
+    email-obfuscation: javascript
+    link-external-newwindow: true
+    fig-align: center
+    code-tools:
+      source: false
+      toggle: false
+      caption: none
+    include-after-body:
+      - text: |
+          <script type="text/javascript">
+          const dateElements = document.querySelectorAll("p.date, div.listing-date");
+          dateElements.forEach((el) => {
+            el.innerHTML = el.innerHTML.replace(
+              /(\d+)(rd|st|th)/g,
+              "$1<sup style='font-size:0.5em;font-style:italic;'>$2</sup>"
+            );
+          });
+          </script>
+
+filters:
+  - lightbox
+lightbox: auto
+
+execute:
+  freeze: true

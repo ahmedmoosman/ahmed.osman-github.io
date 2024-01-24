@@ -1,0 +1,31 @@
+# options specified here will apply to all posts in this folder
+
+# freeze computational output
+# (see https://quarto.org/docs/projects/code-execution.html#freeze)
+freeze: true
+
+# Enable banner style title blocks
+title-block-banner: true
+
+author: Ahmed Mohamed Osman
+
+toc: true
+number-sections: true
+back-to-top-navigation: true
+
+comments:
+  giscus: 
+    repo: ahmedmoosman/ahmedmoosman.github.io
+    repo-id: R_kgDOLHn5Nw
+    theme: dark_dimmed
+    category: "Blog posts"
+    category-id: DIC_kwDOFLAkg84CSh-t
+
+knitr:
+  opts_chunk: 
+    collapse: true
+    comment: "#>"
+
+execute: 
+  warning: false
+  message: false

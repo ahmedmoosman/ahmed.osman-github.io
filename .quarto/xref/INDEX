@@ -1,0 +1,17 @@
+{
+  "publications.qmd": {
+    "publications.html": "01ca7fe3"
+  },
+  "about.qmd": {
+    "about.html": "940db276"
+  },
+  "blog.qmd": {
+    "blog.html": "e91c2804"
+  },
+  "posts/Dataviz 2024/index.qmd": {
+    "index.html": "2c738c15"
+  },
+  "index.qmd": {
+    "index.html": "c09a2c0d"
+  }
+}
