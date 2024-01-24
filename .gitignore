@@ -1,0 +1,7 @@
+.DS_Store
+/.luarc.json
+/.quarto
+/_site
+
+/.quarto/
+.Rproj.user
