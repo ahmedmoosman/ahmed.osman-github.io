@@ -1,7 +1,7 @@
 ---
 title: "Ahmed M. Osman"
 subtitle: |
-  International Economist, GeoSpatial Data Analyst, and R-lover.
+  International Economist, GeoSpatial Data Analyst, and R-user.
 image: /assets/images/profile.png
 about:
   id: edu-exp
