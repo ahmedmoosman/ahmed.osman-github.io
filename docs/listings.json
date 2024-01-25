@@ -4,6 +4,13 @@
     "items": []
   },
   {
+    "listing": "/portfolio/portfolio.html",
+    "items": [
+      "/portfolio/dive/index.html",
+      "/portfolio/peru/index.html"
+    ]
+  },
+  {
     "listing": "/blog.html",
     "items": [
       "/posts/Dataviz 2024/index.html"

@@ -32,6 +32,8 @@ website:
         href: blog.qmd
       - text: Publications
         href: publications.qmd
+      - text: Portfolio
+        href: portfolio/portfolio.qmd
       - text: "{{< iconify fa6-brands mastodon >}}"
         href: "https://econtwitter.net/explore"
         rel: me

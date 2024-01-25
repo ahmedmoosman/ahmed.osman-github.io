@@ -16,7 +16,7 @@ back-to-top-navigation: true
 comments:
   giscus: 
     repo: ahmedmoosman/ahmedmoosman.github.io
-    repo-id: R_kgDOLHn5Nw
+    repo-id: R_kgDOLJAgkQ
     theme: dark_dimmed
     category: "Blog posts"
     category-id: DIC_kwDOFLAkg84CSh-t

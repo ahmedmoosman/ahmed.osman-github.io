@@ -1,0 +1,29 @@
+---
+title: "Portfolio"
+description: |
+ A place to store my research and other publications
+listing:
+  - id: Graphicdesign
+    max-description-length: 500
+    image-height: 250px
+    fields: [image, title, description]
+    contents: 
+      - peru
+      - dive
+    type: grid
+    grid-item-border: false
+    grid-columns: 3
+---
+
+### Graphic Design
+
+::: {#Graphicdesign}
+:::
+
+#
+### Visualizations
+
+::: 
+:::
+
+------------------------------------------------------------------------

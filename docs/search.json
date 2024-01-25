@@ -1,31 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ahmed M. Osman",
-    "section": "",
-    "text": "I’m an aspiring international economist with a passion for unraveling the complexities of our interconnected world. My research interests lie at the intersection of globalization, trade dynamics, migration patterns, and development economics. What truly sets my work apart is my special fascination with spatial data management, a powerful tool that allows us to visualize and understand how economic forces shape the geographical landscape. Join me on this exciting journey as we explore the intricacies of global economics and its impact on our ever-evolving world.\n\n\n\n\nM.Sc. in Economics of Globalization and European Integration (Specialised Globalisation and Emerging Market Economies (GEME) ), 2023\nEGEI- Erasmus Mundus Joint Master, Italy, Belgium & Spain\nB.Sc. in Economics (Specialised in International Economics), 2020\nUniversity of Hargeisa, Somaliland\n\n\n\n\n\nSpatial Analysis\nEconometrics\nTrade Policies\nRegional Integration\nMachine learning\nR\nQuarto\nLongitudinal Data\nData Analysis\nData Visualisation\nKnowledge Sharing\nLearning New Skills"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Ahmed M. Osman",
-    "section": "",
-    "text": "M.Sc. in Economics of Globalization and European Integration (Specialised Globalisation and Emerging Market Economies (GEME) ), 2023\nEGEI- Erasmus Mundus Joint Master, Italy, Belgium & Spain\nB.Sc. in Economics (Specialised in International Economics), 2020\nUniversity of Hargeisa, Somaliland"
-  },
-  {
-    "objectID": "index.html#interests",
-    "href": "index.html#interests",
-    "title": "Ahmed M. Osman",
-    "section": "",
-    "text": "Spatial Analysis\nEconometrics\nTrade Policies\nRegional Integration\nMachine learning\nR\nQuarto\nLongitudinal Data\nData Analysis\nData Visualisation\nKnowledge Sharing\nLearning New Skills"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Publications (0 + 1)",
+    "title": "Publications",
     "section": "",
     "text": "Order By\n       Default\n         \n          Issued - Oldest\n        \n         \n          Issued - Newest\n        \n         \n          Title\n        \n         \n          Journal\n        \n         \n          Rank\n        \n         \n          First\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nIssued\n\n\nTitle\n\n\nJournal\n\n\nFirst\n\n\nRank\n\n\n\n\n\n\n \n\n\n \n\n\n \n\n\n   \n\n\n \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "portfolio/portfolio.html",
+    "href": "portfolio/portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Graphic Design\n\n\n\n\n\n\n\n\n\n\nDIVE Manaul\n\n\nDiversifying Industries and Value Chains for Exports Tool\n\n\n\n\n\n\n\n\n\n\n\n\n\nPeru Report\n\n\nPeru in the global economy: Recent trends and potential diversification strategies\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\nVisualizations\n::: :::"
   },
   {
     "objectID": "blog.html",
@@ -40,6 +26,13 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "portfolio/peru/index.html",
+    "href": "portfolio/peru/index.html",
+    "title": "Peru Report",
+    "section": "",
+    "text": "Promoting SustainableIndustrialization (SDG9) involves technological innovation & economic diversification, crucial for developing countries. The successful collaboration between UNIDO & Peru in applying the DIVE (Diversifying Industries and Value Chains for Exports) tool is an impressive example of an innovative partnership, generating concrete & actionable evidence for informed decision-making. Read the report and learn more👉click here"
   },
   {
     "objectID": "posts/Dataviz 2024/index.html",
@@ -61,5 +54,33 @@
     "title": "interactive Data Visualization with Observable",
     "section": "2 ",
     "text": "2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ahmed M. Osman",
+    "section": "",
+    "text": "I’m an aspiring international economist with a passion for unraveling the complexities of our interconnected world. My research interests lie at the intersection of globalization, trade dynamics, migration patterns, and development economics. What truly sets my work apart is my special fascination with spatial data management, a powerful tool that allows us to visualize and understand how economic forces shape the geographical landscape. Join me on this exciting journey as we explore the intricacies of global economics and its impact on our ever-evolving world.\n\n\n\n\nM.Sc. in Economics of Globalization and European Integration (Specialised Globalisation and Emerging Market Economies (GEME) ), 2023\nEGEI- Erasmus Mundus Joint Master, Italy, Belgium & Spain\nB.Sc. in Economics (Specialised in International Economics), 2020\nUniversity of Hargeisa, Somaliland\n\n\n\n\n\nSpatial Analysis\nEconometrics\nTrade Policies\nRegional Integration\nMachine learning\nR\nQuarto\nLongitudinal Data\nData Analysis\nData Visualisation\nKnowledge Sharing\nLearning New Skills"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Ahmed M. Osman",
+    "section": "",
+    "text": "M.Sc. in Economics of Globalization and European Integration (Specialised Globalisation and Emerging Market Economies (GEME) ), 2023\nEGEI- Erasmus Mundus Joint Master, Italy, Belgium & Spain\nB.Sc. in Economics (Specialised in International Economics), 2020\nUniversity of Hargeisa, Somaliland"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Ahmed M. Osman",
+    "section": "",
+    "text": "Spatial Analysis\nEconometrics\nTrade Policies\nRegional Integration\nMachine learning\nR\nQuarto\nLongitudinal Data\nData Analysis\nData Visualisation\nKnowledge Sharing\nLearning New Skills"
+  },
+  {
+    "objectID": "portfolio/dive/index.html",
+    "href": "portfolio/dive/index.html",
+    "title": "DIVE Manaul",
+    "section": "",
+    "text": "A new approach to product prioritization for diversification A novel tool can help navigate diversification opportunities and drive structural change. Read the report and learn more👉click here"
   }
 ]

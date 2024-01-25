@@ -1,4 +1,4 @@
-create_pub_listing <- function(bib_file, author = "Canouil") {
+create_pub_listing <- function(bib_file, author = "Osman") {
   bib <- strsplit(paste(readLines(bib_file), collapse = "\n"), "\n@")[[1]]
   articles <- lapply(
     X = paste0("@", bib[bib != ""]),
@@ -39,7 +39,7 @@ create_pub_listing <- function(bib_file, author = "Canouil") {
 
   yaml_text <- c(
     "---",
-    "title: 'Publications (%s)'",
+    "title: 'Publications'",
     "page-layout: full",
     "title-block-banner: true",
     "image: /assets/images/social-profile.png",
